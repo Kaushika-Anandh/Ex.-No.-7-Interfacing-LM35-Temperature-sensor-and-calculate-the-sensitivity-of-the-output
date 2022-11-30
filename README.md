@@ -1,4 +1,5 @@
 Exp: 07
+
 Date: 21.10.2022
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
